@@ -1,0 +1,31 @@
+# Core LangChain packages
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-text-splitters
+
+# LangGraph for workflow management
+langgraph
+
+# MCP (Model Context Protocol) adapters
+langchain-mcp-adapters
+
+# Vector database
+chromadb
+
+# OpenAI integration
+openai
+
+# Environment variables
+python-dotenv
+
+# HTTP requests
+requests
+
+# PDF processing
+PyPDF2
+
+# Type hints
+typing-extensions
