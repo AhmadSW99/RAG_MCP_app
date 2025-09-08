@@ -22,8 +22,8 @@ This repository demonstrates how to combine **Retrieval‑Augmented Generation (
 ```
 .
 ├─ prepareRAG.py          # Script to embed and persist local documents
-├─ RAG_MCP.py             # Example with multi‑MCP setup (Jira + Bitbucket)
-├─ RAG_muiltiMCP.py       # Alternative implementation / test version
+├─ RAG_MCP.py             # Example with one‑MCP setup (Jira)
+├─ RAG_muiltiMCP.py       # Example with multi‑MCP setup (Jira + Bitbucket)
 ├─ requirements.txt       # Python dependencies
 └─ data/                  # (optional) folder to store your documents
 ```
